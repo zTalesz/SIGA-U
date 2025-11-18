@@ -1,0 +1,7 @@
+id_recado,titulo,mensagem,autor_nome,autor_id,data_publicacao,publico_alvo_turma_id
+1,Aviso Importante 1,Este é um comunicado de exemplo gerado pelo script.,Pedro Miguel Farias,2044,2025-11-05,Geral
+2,Aviso Importante 2,Este é um comunicado de exemplo gerado pelo script.,Theo Cavalcante,2103,2025-11-04,Geral
+3,Aviso Importante 3,Este é um comunicado de exemplo gerado pelo script.,Maria Laura Pinto,2081,2025-11-03,Geral
+4,Aviso Importante 4,Este é um comunicado de exemplo gerado pelo script.,Alícia Carvalho,2064,2025-11-02,Geral
+5,Aviso Importante 5,Este é um comunicado de exemplo gerado pelo script.,Bernardo Nascimento,2075,2025-11-01,Geral
+6,Recado teste pratico,kajsdkljasldkaskldjaskld,Benjamim Caldeira,2008,2025-11-06,Geral

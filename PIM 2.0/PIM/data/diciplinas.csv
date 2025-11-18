@@ -1,0 +1,43 @@
+id_disciplina,nome_disciplina,codigo_disciplina,carga_horaria,id_curso
+1,Lógica de Programação,ADS101,80,1
+2,Engenharia de Software,ADS102,40,1
+3,Banco de Dados,ADS103,80,1
+4,Redes de Computadores,ADS104,40,1
+5,Segurança da Informação,ADS105,40,1
+6,Sistemas Operacionais,ADS106,40,1
+7,Cálculo I,ECV101,80,2
+8,Física Geral,ECV102,80,2
+9,Desenho Técnico,ECV103,40,2
+10,Resistência dos Materiais,ECV104,80,2
+11,Estruturas de Concreto,ECV105,40,2
+12,Hidráulica,ECV106,40,2
+13,Direito Constitucional,DIR101,80,3
+14,Direito Penal I,DIR102,80,3
+15,Direito Civil I,DIR103,80,3
+16,Teoria Geral do Estado,DIR104,40,3
+17,Economia Política,DIR105,40,3
+18,Português Jurídico,DIR106,40,3
+19,Psicologia Geral,PSI101,80,4
+20,Neuroanatomia,PSI102,40,4
+21,Filosofia,PSI103,40,4
+22,Sociologia,PSI104,40,4
+23,Teorias da Personalidade,PSI105,80,4
+24,Metodologia Científica,PSI106,40,4
+25,Desenho Arquitetônico,ARQ101,80,5
+26,História da Arte,ARQ102,40,5
+27,Geometria Descritiva,ARQ103,80,5
+28,Plástica,ARQ104,40,5
+29,Topografia,ARQ105,40,5
+30,Conforto Ambiental,ARQ106,80,5
+31,Teoria da Administração,ADM101,80,6
+32,Contabilidade Básica,ADM102,80,6
+33,Matemática Financeira,ADM103,80,6
+34,Marketing,ADM104,40,6
+35,Gestão de Pessoas,ADM105,40,6
+36,Direito Empresarial,ADM106,40,6
+37,Anatomia Animal,VET101,80,7
+38,Bioquímica,VET102,80,7
+39,Genética,VET103,40,7
+40,Microbiologia,VET104,80,7
+41,Histologia,VET105,40,7
+42,Parasitologia,VET106,40,7
