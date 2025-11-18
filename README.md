@@ -4,6 +4,8 @@ O SIGA-U é um sistema acadêmico desenvolvido em Python + Streamlit, criado com
 
 O objetivo do sistema é oferecer uma solução simples, local e funcional para gestão interna de instituições de ensino.
 
+
+
 🚀 Principais Funcionalidades
 
 🔐 Autenticação com controle de acesso por perfil
@@ -11,33 +13,25 @@ O objetivo do sistema é oferecer uma solução simples, local e funcional para 
 👨‍🎓 Painel do Aluno
 
 Visualização de informações
-
 Acesso ao mural
-
 Carteirinha
-
 Calendário de prazos
 
 👨‍🏫 Painel do Professor
 
 Gerenciamento de prazos
-
 Mural de recados
-
 Visualização de turmas
 
 🧑‍💼 Painel da Coordenação
 
 Avaliação e aprovação de solicitações
-
 Gerenciamento de turmas e cursos
 
 🛠️ Painel do Administrador
 
 Acesso geral
-
 Gerenciamento de usuários
-
 Gerenciamento do sistema
 
 📁 Banco de dados local em CSV
@@ -48,19 +42,20 @@ Gerenciamento do sistema
 
 🗂️ Arquitetura em múltiplas páginas (Streamlit pages)
 
-🧠 O que eu desenvolvi nesse projeto
+🧠 Apesar de o PIM ser um projeto em grupo, eu fui o responsável direto pelo desenvolvimento técnico do sistema.
+Minhas principais contribuições foram:
 
-Este sistema foi desenvolvido inteiramente por mim, incluindo:
+✔️ Criação da arquitetura do sistema (organização do projeto, estrutura de pastas e fluxo principal)
+✔️ Desenvolvimento completo do núcleo da aplicação em Streamlit
+✔️ Implementação da autenticação, sessão e redirecionamento seguro
+✔️ Criação do painel administrativo (Admin)
+✔️ Configuração do menu lateral dinâmico baseado em perfil
+✔️ Integração e tratamento dos arquivos CSV usados como banco de dados
+✔️ Construção da lógica central de usuários, permissões e navegação
+✔️ Documentação técnica e organização do repositório no GitHub
+✔️ Suporte aos integrantes na integração dos painéis
 
-✔️ Estruturação da arquitetura do sistema
-✔️ Tratamento de autenticação e redirecionamento
-✔️ Criação dos painéis personalizados (Aluno, Professor, Coordenação, Admin)
-✔️ Implementação do menu lateral dinâmico
-✔️ CRUD básico usando arquivos CSV
-✔️ Organização das páginas dentro do Streamlit
-✔️ Documentação completa (README técnico dentro das pastas)
-✔️ Diagramas e estrutura do PIM (caso de uso, sequência, etc.)
-✔️ Testes, ajustes e otimização para rodar em rede local
+Os painéis específicos (Aluno, Professor e Coordenação) foram desenvolvidos em conjunto com os outros integrantes, mas toda a infraestrutura, lógica base, autenticação, navegação e integração foi construída por mim.
 
 🧱 Tecnologias Utilizadas
 
